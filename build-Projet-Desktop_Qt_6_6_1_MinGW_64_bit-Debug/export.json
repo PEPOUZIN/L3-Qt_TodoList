@@ -1,0 +1,74 @@
+{
+    "contacts": [
+        {
+            "entreprise": "Google",
+            "interactions": [
+                {
+                    "description": "Finir projet @date 2023-12-22",
+                    "todos": [
+                    ]
+                }
+            ],
+            "mail": "mail.ru",
+            "nom": "Romain",
+            "numero": "123456789",
+            "photo": "C:/Users/stizr/Desktop/OIP.jpg",
+            "prenom": "Stiz"
+        },
+        {
+            "entreprise": "Apple",
+            "interactions": [
+                {
+                    "description": "Vendre @date 2023-12-22",
+                    "todos": [
+                    ]
+                },
+                {
+                    "description": "Gestion  @date 2023-12-24",
+                    "todos": [
+                    ]
+                }
+            ],
+            "mail": "gmail",
+            "nom": "Jean",
+            "numero": "5362722882",
+            "photo": "C:/Users/stizr/Desktop/OIP.jpg",
+            "prenom": "Dupont"
+        },
+        {
+            "entreprise": "Cora",
+            "interactions": [
+                {
+                    "description": "Vendre @date 2023-12-22",
+                    "todos": [
+                    ]
+                }
+            ],
+            "mail": "orange.fr",
+            "nom": "Pierre",
+            "numero": "7654345667",
+            "photo": "C:/Users/stizr/Desktop/OIP.jpg",
+            "prenom": "Dupond"
+        },
+        {
+            "entreprise": "Google",
+            "interactions": [
+            ],
+            "mail": "mail.ru",
+            "nom": "Romain",
+            "numero": "12345678",
+            "photo": "C:/Users/stizr/Desktop/OIP.jpg",
+            "prenom": "Stiz"
+        },
+        {
+            "entreprise": "Non",
+            "interactions": [
+            ],
+            "mail": "mail",
+            "nom": "Pierre-emannuel",
+            "numero": "765456789876",
+            "photo": "C:/Users/stizr/Desktop/OIP.jpg",
+            "prenom": "Pouzin"
+        }
+    ]
+}

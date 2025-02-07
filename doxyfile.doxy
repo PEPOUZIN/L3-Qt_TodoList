@@ -1,0 +1,45 @@
+# Doxyfile pour un projet Qt
+
+# Spécifie le répertoire source de votre projet
+INPUT                  = Projet
+
+# Spécifie le répertoire de sortie pour la documentation générée
+OUTPUT_DIRECTORY       = .
+
+# Spécifie le titre de la documentation
+PROJECT_NAME           = "Mon ProjetDoxyfile"
+
+# Spécifie la version du projet
+PROJECT_NUMBER         = 1.0
+
+# Utilise l'extension .h pour les fichiers d'en-tête C++
+EXTENSION_MAPPING      = h=C++
+
+# Ajoute des répertoires d'inclusion supplémentaires si nécessaire
+INCLUDE_PATH           = 
+
+# Inclut les fichiers source dans la documentation
+SOURCE_BROWSER         = YES
+
+# Inclut les fichiers système dans la documentation
+REFERENCED_BY_RELATION = YES
+REFERENCES_RELATION    = YES
+
+# Génère un fichier graphique des dépendances
+GENERATE_DEPENDENCY_GRAPH = YES
+
+# Active la génération de documentation pour les classes et les fonctions
+GENERATE_HTML          = YES
+GENERATE_LATEX         = YES
+
+# Active la génération de documentation pour les membres privés et protégés
+EXTRACT_PRIVATE        = YES
+
+# Ajoute les répertoires à ignorer lors de la recherche de fichiers sources
+EXCLUDE                = 
+
+# Ignore les fichiers temporaires et de sauvegarde
+EXCLUDE_PATTERNS       = *~ *.bak
+
+# Inclut uniquement les fichiers qui contiennent des commentaires Doxygen
+FILTER_SOURCE_FILES    = YES
